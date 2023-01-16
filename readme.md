@@ -4,4 +4,6 @@
 `$ git branch <new-branch>`
 
 ##switching branch
+`$ git checkout new-branch`
+`$ git switch main`
 
