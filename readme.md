@@ -4,4 +4,3 @@
 $ git branch <new-branch>
 
 ##switching branch
-$ 
