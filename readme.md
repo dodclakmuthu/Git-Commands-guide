@@ -16,3 +16,15 @@
 
 ## rename seperate branch not the current branch
 `$ git branch -m <current-branch-name> <new-branch-name>`
+
+## publich local branch into remote repository
+`git push -u origin <branch-name>`
+
+## delete a fully merged branch
+`git branch --delete <branch-name>`
+
+## delete a not fully merged branch
+`git branch -D <branch-name>`
+
+## get remote branch to local
+`git branch --track <local-branch> origin/<remote-branch>` 
