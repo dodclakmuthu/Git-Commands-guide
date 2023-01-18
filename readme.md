@@ -27,6 +27,6 @@
 `git branch -D <branch-name>`
 
 ## get remote branch to local
-`git branch --track <local-branch> origin/<remote-branch>` \n
+`git branch --track <local-branch> origin/<remote-branch>` <br />
 `git checkout --track origin/better-branch` ==> checkout to the branch   
 
