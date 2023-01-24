@@ -30,3 +30,8 @@
 `git branch --track <local-branch> origin/<remote-branch>` <br />
 `git checkout --track origin/better-branch` ==> checkout to the branch   
 
+# Rebasing branches
+## 1. Checkout the branch that should receive changes
+`git switch <branch-name>`
+## 2. execute the rebase command with the name of the branch that contains the desired changes
+`git rebase <desired branch name>`
