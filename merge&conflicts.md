@@ -12,3 +12,16 @@ git most of the time decide which code should be add, but some situations need w
 
 ### merge changes to main branch
 `git merge <branch-name>`
+
+
+### Undo a conflict and start over
+can be undone even you are at the dead end
+`git merge --abort`
+
+### how conflict look like
+<<<<<<< HEAD
+    current code 
+=======
+    from the branch that need to merge
+>>>>>>> develop
+
