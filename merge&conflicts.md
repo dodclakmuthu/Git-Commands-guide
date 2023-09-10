@@ -18,10 +18,10 @@ git most of the time decide which code should be add, but some situations need w
 can be undone even you are at the dead end
 `git merge --abort`
 
-### how conflict look like
-<<<<<<< HEAD
-    current code 
-=======
-    from the branch that need to merge
->>>>>>> develop
+### how conflict look like  
+<<<<<<< HEAD  
+    current code   
+=======  
+    from the branch that need to merge  
+>>>>>>> develop  
 
