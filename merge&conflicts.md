@@ -19,9 +19,9 @@ can be undone even you are at the dead end
 `git merge --abort`
 
 ### how conflict look like  
-<<<<<<< HEAD  
+```<<<<<<< HEAD  
     current code   
 =======  
     from the branch that need to merge  
->>>>>>> develop  
+>>>>>>> develop```
 
