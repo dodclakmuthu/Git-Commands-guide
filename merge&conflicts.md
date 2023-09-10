@@ -21,7 +21,7 @@ can be undone even you are at the dead end
 ### how conflict look like  
 ```<<<<<<< HEAD  
     current code   
-=======  
+======  
     from the branch that need to merge  
 >>>>>>> develop```
 
