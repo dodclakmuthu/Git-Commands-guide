@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 commit 1 using branch 1
 commit 2 using branch 1
-=======
-commit 1 using branch 1
->>>>>>> 5b88a1e (b1com1)
